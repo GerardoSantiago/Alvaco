@@ -1,0 +1,12 @@
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\EntityFramework.dll
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\EntityFramework.xml
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\es\EntityFramework.resources.dll
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Temporal\Proyectos\Alvaco\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
